@@ -1,4 +1,4 @@
 shinetech-wiki
 ==============
 
-Shinetech China TianJin team Wiki
+Shinetech China TianJin team Wiki.
